@@ -1,6 +1,6 @@
 #include <iostream>
 
-#define N 4
+#define N 5
 // Rotate matrix by 90 degree
 
 void swap(int *n1, int *n2) {
